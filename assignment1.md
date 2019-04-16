@@ -2,12 +2,12 @@
 
 ### Camille Erickson
 
-## Are labor unions dying? 
+## IDEA 1: Are labor unions dying? 
 Following the 2016 presidential election, unions witnessed a barrage of attacks on the labor sector. Most notably, the Supreme Court’s 2018 ruling in Janus v. AFSCME gave public workers the choice to opt out of unions and not pay membership dues. Many labor organizers predicted the adoption of such “right-to-work” laws would be a death call for unions, which have already seen their share of workers decline over the last 35 years. Overall, union membership stayed steady and financial consequences have yet to be seen. Despite recent blows, unions have dug in and continue to wield financial influence in lobbying efforts too. But what have been the impacts of the Supreme Courts Janus ruling thus far? I will analyze recently filed financial reports from unions to track financial trends from the past year. What has the loss of agency fee payers had on unions one year since the Janus decision?
 
 * [Bloomberg Law](https://news.bloomberglaw.com/daily-labor-report/mass-exodus-of-public-union-fee-payers-after-high-court-ruling) recently did a brief analysis of the financial data from two of the largest unions: the American Federation of State and County Municipal Employees (AFSCM) and Service Employees International Union (SEIU). Both union lost a vast majority of agency fee payers (or employees who opted out of union membership and still paid union fees before the SCOTUS ruling). However, more analysis is needed to understand the impact across the unionized labor sector. This would have been a great story to add data visualization to. 
 
-### EXAMPLE OF ARTICLE USING DATA 
+### Example of relevant article using data
 
 [*Quartz* published a story](https://qz.com/1542019/union-membership-in-the-us-keeps-on-falling-like-almost-everywhere-else/) on the decline of union membership. Although my story will focus on the longer term financial picture of American unions, membership is still very relevant to this topic. *Quartz* provides two data visualizations to accompany this article. 
 
@@ -21,10 +21,10 @@ It feels like the charts in this piece were a bit of an afterthought. I would ha
 
 I would have liked to see more **creativity** in the charts too. I think the concept could have been developed further before relying on charts to supplement the article. I think the core concept: union membership has declined, is a simple concept that doesn't necessarily require a visual. It is communicated well in the writing. But if there was additional data to provide more nuance to that picture, then the charts could have been considered. For instance, the author states: " Healthcare, restaurant, and hospitality jobs are among the fastest growing and, historically, these industries that have not had high unionization rate." Perhaps a chart showing the correlation between the growth rate of these industries and the decline in unions would have been interesting.
 
-## Are corporations in violation of the WARN Act being held accountable?
+## IDEA 2: Are corporations in violation of the WARN Act being held accountable?
 The WARN Act (Worker Adjustment and Retraining Notification Act) requires that companies with over 75 full-time employees provide at least 60 days notice to workers before mass closures and layoffs. But workers often find themselves facing employers who violate the act. Late last year in Chicago, seven Treasure Island grocery stores closed and about 700 workers lost their jobs, accrued paid time off and health care benefits. They never got the severance pay that the WARN Act required. A group of workers filed a class action lawsuit, but it will be months before workers find out if they receive compensation, if any. How often are corporations in violation of the WARN Act held accountable, and how often do workers see their lost pay? I want to analyze federal WARN Act data to see how well the law is being enforced. 
 
-### EXAMPLE OF ARTICLE USING DATA: 
+### Example of relevant article using data: 
 ProPublica produced a series called [Insult to Injury](https://www.propublica.org/series/workers-compensation) about workers hurt on the job and left uncompensated due to the gutting of worker benefits across the country. One article in particular in the series titled, [The demolition of workers' comp](https://www.propublica.org/article/the-demolition-of-workers-compensation)stood out to me for its compelling presentation of data. One of the data visualizations in the article an [interactive component](https://projects.propublica.org/graphics/workers-comp-reform-by-state) that readers can link to for more detail that I will critique here. 
 
 I would give the **clarity and accuracy** of the visualization a 4. The journalists were careful to provide both a title and dek to the data visualization to guide readers through complicated findings. The data presented is complex -- it shows worker compensation outcomes in each state, broken down by three categories (cuts to benefits, benefits staying the same, benefits increased). To visualize these shifts over time, the visualization assigns easily understandable colors (red represents loss, green an increase, and yellow minimal change). The data is also displayed in two different types of visualizations:
