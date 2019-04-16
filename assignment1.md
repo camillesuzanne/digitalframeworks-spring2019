@@ -1,4 +1,4 @@
-# Assignment 1 IN PROCESS
+# Assignment 1 
 
 ### Camille Erickson
 
@@ -24,7 +24,8 @@ I would have liked to see more **creativity** in the charts too. I think the con
 ## Are corporations in violation of the WARN Act being held accountable?
 The WARN Act (Worker Adjustment and Retraining Notification Act) requires that companies with over 75 full-time employees provide at least 60 days notice to workers before mass closures and layoffs. But workers often find themselves facing employers who violate the act. Late last year in Chicago, seven Treasure Island grocery stores closed and about 700 workers lost their jobs, accrued paid time off and health care benefits. They never got the severance pay that the WARN Act required. A group of workers filed a class action lawsuit, but it will be months before workers find out if they receive compensation, if any. How often are corporations in violation of the WARN Act held accountable, and how often do workers see their lost pay? I want to analyze federal WARN Act data to see how well the law is being enforced. 
 
-### EXAMPLE OF ARTICLE USING DATA: ProPublica produced a series called [Insult to Injury](https://www.propublica.org/series/workers-compensation) about workers hurt on the job and left uncompensated due to the gutting of worker benefits across the country. One article in particular in the series titled, [The demolition of workers' comp](https://www.propublica.org/article/the-demolition-of-workers-compensation)stood out to me for its compelling presentation of data. One of the data visualizations in the article an [interactive component](https://projects.propublica.org/graphics/workers-comp-reform-by-state) that readers can link to for more detail that I will critique here. 
+### EXAMPLE OF ARTICLE USING DATA: 
+ProPublica produced a series called [Insult to Injury](https://www.propublica.org/series/workers-compensation) about workers hurt on the job and left uncompensated due to the gutting of worker benefits across the country. One article in particular in the series titled, [The demolition of workers' comp](https://www.propublica.org/article/the-demolition-of-workers-compensation)stood out to me for its compelling presentation of data. One of the data visualizations in the article an [interactive component](https://projects.propublica.org/graphics/workers-comp-reform-by-state) that readers can link to for more detail that I will critique here. 
 
 I would give the **clarity and accuracy** of the visualization a 4. The journalists were careful to provide both a title and dek to the data visualization to guide readers through complicated findings. The data presented is complex -- it shows worker compensation outcomes in each state, broken down by three categories (cuts to benefits, benefits staying the same, benefits increased). To visualize these shifts over time, the visualization assigns easily understandable colors (red represents loss, green an increase, and yellow minimal change). The data is also displayed in two different types of visualizations:
 
