@@ -1,3 +1,11 @@
-# Assignment 1
+# Assignment 1 IN PROCESS! 
 
-## This is due at 6 p.m. next Tuesday.
+## Are labor unions dying? 
+Following the 2016 presidential election, unions witnessed a barrage of attacks on the labor sector. Most notably, the Supreme Court’s 2018 ruling in Janus v. AFSCME gave public workers the choice to opt out of unions and not pay membership dues. Many labor organizers predicted the adoption of such “right-to-work” laws would be a death call for unions, which have already seen their share of workers decline over the last 35 years. Overall, union membership stayed steady and financial consequences have yet to be seen. Despite recent blows, unions have dug in and continue to wield financial influence in lobbying efforts too. But what have been the impacts of the Supreme Courts Janus ruling thus far? I will analyze recently filed financial reports from unions to track financial trends from the past year. What has the loss of agency fee payers had on unions one year since the Janus decision?
+
+* [Bloomberg Law](https://news.bloomberglaw.com/daily-labor-report/mass-exodus-of-public-union-fee-payers-after-high-court-ruling) recently did a brief analysis of the financial data from two of the largest unions: the American Federation of State and County Municipal Employees (AFSCM) and Service Employees International Union (SEIU). Both union lost a vast majority of agency fee payers (or employees who opted out of union membership and still paid union fees before the SCOTUS ruling). However, more analysis is needed to understand the impact across the unionized labor sector.
+
+
+## Are corporations in violation of the WARN Act being held accountable?
+The WARN Act (Worker Adjustment and Retraining Notification Act), which require that companies with over 75 full-time employees provide at least 60 days notice to workers before mass closures and layoffs. But workers often find themselves facing employers who violate the act. In Chicago, when seven Treasure Island stores closed, about 700 workers lost their jobs, accrued paid time off and health care benefits, and never got the severance pay that the law would require. They filed a class action lawsuit. But how often are corporations in violation of the WARN Act held accountable, and how often do workers see their lost pay? I want to analyze federal WARN data to see how well the act is being enforced. 
+
