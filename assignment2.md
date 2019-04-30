@@ -6,7 +6,7 @@ Cities across the country have yet to see the federal money they've been promise
  
 This year, the Trump administration continues to withhold promised federal grants, stalling light rail, bus and rail improvements -- from Tempe, Arizona to Pittsburgh, Pennsylvania. The funding drought has come at a cost for cities and states, forcing local governments to shoulder the costs of essential infrastructure projects, or cancel them.  I am investigating why the Federal Transit Authority is not distributing Capital Investment Grant Program funds, and what impact these delays have had on grant recipients in 17 states.
 
-Under the Obama Administration, FTA published data documenting which grants had been obligated, or awarded, to each of these projects. However, this information is no longer available. Only annual estimates of grants that will be distributed are available. 
+Under the Obama Administration, FTA published data documenting which grants had been obligated, or awarded, to each of these projects. Since Trump's inauguration, this information is no longer available. Only annual estimates of grants that will be distributed are available. This database will track this data.
 
 ## Data Points
 
@@ -21,8 +21,9 @@ Under the Obama Administration, FTA published data documenting which grants had 
 
 
 ## Method
-After speaking with the organization Transportation for America, they suggested that one way to capture this information now is to look through news releases from FTA and elsewhere to record when each project actually received a grant. By sifting through news releases, this database will capture CIG grant allocations so I can determine how much has been awarded and how much remains in FTA's pockets.
+After speaking with the organization Transportation for America, they suggested that one way to capture this information now is to look through news releases from FTA and elsewhere to record when each project actually received a grant. By sifting through FTA news releases, this database will capture CIG grant allocations so I can determine how much has been awarded and how much remains in FTA's pockets.
 
 ## Example
 
+Available [here](https://docs.google.com/spreadsheets/d/1hibf6wy9XXv0ihNIGJ4nOV4pOPJTZDrcYj7Kwx9dmTs/edit?usp=sharing) on Google Sheets.
 
