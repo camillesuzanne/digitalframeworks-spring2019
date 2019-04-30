@@ -1,0 +1,34 @@
+# Cleaning Data
+
+Cut out on cubicle -- "i will always check FEC amendments, I will always check FEC amendments."
+Cleaning data allows you to avoid making mistakes
+Lets you take a bunch of data that could be in multitude of formats and turn it into something gorgeous!
+So what should good data look like? 
+  -separate fields and separate columns
+  -alphabetize, sort by last name
+  -states and districts need to be formatted all the same
+  -Party "R" and "D" (reduces room for error)
+  -no commas or spaces in numbers. You can make calculations. Leave numbers as plain as possible.
+ What are some edge cases, what could I anticipate needing down the road. What if the way I'm recording my data might catch me up down the road?
+ 
+ ALWAYS MAKE A COPY OF YOUR DATA!!!!!
+ Always keep a record of what you're doing to your data. 
+ Save it and save and copy, always work on the copy of it, especially if it's a link.
+ The way you can do it in Excel is to do each step in a new tab. 
+ 
+ Orig data Remove amdts Fix typos sort by score
+ If you are going to work with multiple pages, you will want to save as an Excel file, not a .csv
+ 
+ 
+1. Wrong-way (aka "fat") data
+Select all and copy. Go to paste and go to TRANSPOSE (it will rotate the data)
+Typically you want your data to be tall & skinny and not fat & wide
+You also want to make sure that your have a header
+
+2. Missing data!!
+Sometimes people will just BS. 
+Whenever you see a zero. You want to at least make a phone call to the peson whogave you the data to make sure it's not null or blank. Just leave it empy or put an n/a
+
+
+ 
+ 
