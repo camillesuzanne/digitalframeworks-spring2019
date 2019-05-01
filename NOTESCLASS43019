@@ -29,6 +29,36 @@ You also want to make sure that your have a header
 Sometimes people will just BS. 
 Whenever you see a zero. You want to at least make a phone call to the peson whogave you the data to make sure it's not null or blank. Just leave it empy or put an n/a
 
+SALARIED EMPLOYEES
+
+I would like to put “n/a” on the blanks 
+
+Type n/a into a cell. 
+Edit copy that cell.
+Select all EDIT > FIND > GO TO
+
+SPECIAL > BLANKS
+
+Filter then change
+Marijuana lobbying data
+
+ADVANCED find and replace 
+Aka regular expressions
+Aka regex
+Aka misleadingly intimidating pile of garbage
+
+^”.*”
+^ new line
+“ “ quote
+. Anything
+*as many things as exist
+
+: “\d*”
+
+Cheat sheet: Characters Regex Cheat sheets
+
+When I’m doing Replace all. Manageable go through each of them
+Spot check
 
  
  
