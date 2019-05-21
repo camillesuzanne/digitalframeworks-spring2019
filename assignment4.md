@@ -1,7 +1,7 @@
 # Assignment 4
 
 ### Pitch
-In the wake of Attorney General William Barr’s decision last month to detain asylum seekers indefinitely, immigration at the Southern border has captured the public’s attention. But of the over 42,000 asylum cases decided in fiscal 2018, over half involved people from countries outside Central America, according to TRAC data compiled by Syracuse University. 
+In the wake of Attorney General William Barr’s decision last month to detain asylum seekers indefinitely, immigration at the Southern border has captured the public’s attention. But of the over 42,000 asylum cases decided in fiscal 2018, over half involved people from over 100 countries outside Central America, according to TRAC data compiled by Syracuse University. 
 
 What impact has the Trump administration’s crackdown on immigration had on immigrants’ ability to receive bond or parole? I will be focusing primarily on immigrants from countries outside of Central America, especially Muslim and other religious minorities imprisoned in detention.
 
