@@ -8,7 +8,7 @@ Jasvir Singh and Rajandeep Singh were among them.
 
 The two men in their twenties both practice Sikhism and fled political persecution in the Punjab region of India to request asylum in the U.S. But upon arriving in 2018, they were detained and denied bond. 
 
-Along with fellow detainees, they sustained a hunger strike for nearly 80 days in protest of the religious discrimination and psychological abuse endured in detention, according to [South Asian Americans Leading Together, an organization fighting for the release of immigrants in detention] (https://saalt.org/men-who-sustained-80-day-hunger-strike-released-from-el-paso-detention-facility/). 
+Along with fellow detainees, they sustained a hunger strike for nearly 80 days in protest of the religious discrimination and psychological abuse endured in detention, according to (South Asian Americans Leading Together, an organization fighting for the release of immigrants in detention) [https://saalt.org/men-who-sustained-80-day-hunger-strike-released-from-el-paso-detention-facility/]. 
 
 SAALT received reports from both Indian and Cuban asylum seekers imprisoned in the El Paso detention. The reports detailed force feeding along with solitary confinement, insufficient translation and a lack of religious accommodations.
 
