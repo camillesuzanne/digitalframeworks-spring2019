@@ -40,19 +40,19 @@ And it’s not only asylum seekers who have been stuck in detention. Undocumente
 
 The average processing time for an immigration case hit an all-time high last year of [578 days](https://trac.syr.edu/phptools/immigration/court_backlog/). As of April 2019, there is a backlog of [892,517 cases](https://trac.syr.edu/phptools/immigration/court_backlog/) waiting to be processed in immigration court.
 
-Figure 2 — Court backlog across the country
-
-Figure 3 — Percentage of bond granted by nationality
+[Figure 1 — Court backlog across the country](www.datawrapper.de/_/bTYYl/)
 
 But in addition to the sharp decline in immigrants’ chance of obtaining bond, the amount a judge sets a bond at fluctuates dramatically depending on the nationality of the immigrant, according to TRAC. 
 
 For example, an immigrant from India has an 87 percent chance of obtaining bond in immigration court, while an immigrant from Cuba has only an 11 percent chance. The median bond amount granted to immigrants also ranges from $4,000 to $17,000, depending on one's country of origin.
 
+[Figure 2 — Chance of obtaining bond by country](https://public.tableau.com/profile/camille.erickson#!/vizhome/Whenitcomestoyourchanceofbeingawardedbondwhereyourefrommatters/Sheet1?publish=yes)
+
 “Being detained is a barrier to access to counsel. Asylum seekers are 10 times more likely to obtain relief when they have access to an attorney,” said Laura Lynch, senior policy council at the American Immigration Lawyers Association. 
 
 What’s more, because immigrants arrive at detention speaking dozens of different languages, communication and cultural barriers are not uncommon and can lead to inadequate due process or abuse, Lynch said. 
 
-[Figure 4 — Map of detained immigrants from around the world](https://public.tableau.com/profile/camille.erickson#!/vizhome/Immigrantsindetentionfromwhatcountries/Dashboard1)
+[Figure 3 — Map of detained immigrants from around the world](https://public.tableau.com/profile/camille.erickson#!/vizhome/Immigrantsindetentionfromwhatcountries/Dashboard1)
 
 “Being held in these conditions it's obviously traumatic and jeopardizes one's ability to effectively communicate with counsel,” Lynch said. 
 
