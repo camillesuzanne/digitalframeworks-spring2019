@@ -48,7 +48,7 @@ But in addition to the sharp decline in immigrants’ chance of obtaining bond, 
 
 For example, an immigrant from India has an 87 percent chance of obtaining bond in immigration court, while an immigrant from Cuba has only an 11 percent chance. The median bond amount granted to immigrants also ranges from $4,000 to $17,000, depending on one's country of origin. Regardless, bond is often cost-prohibitive for immigrants, according to several immigration attorneys.
 
-[Figure 3 — Chance of obtaining bond by country](https://public.tableau.com/profile/camille.erickson#!/vizhome/Whenitcomestoyourchanceofbeingawardedbondwhereyourefrommatters/Sheet1?publish=yes)
+[Figure 3 — Chance of obtaining bond by country](https://public.tableau.com/profile/camille.erickson#!/vizhome/Whereyourefrommattersinimmigrationcourtbondhearings/Sheet1)
 
 Being detained creates additional barriers for immigrants hoping to accessing representation in court too. 
 
