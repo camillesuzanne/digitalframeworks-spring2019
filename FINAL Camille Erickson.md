@@ -72,7 +72,7 @@ Muslim Advocates and Americans for Immigrant Justice, two organizations fighting
 
 According to the complaint, agents shackled the men for multiple days, denied them the ability to go to the bathroom, cancelled their prayer times, served non-halal meals and refused to give them religious attire, such as a kufis or prayer rugs. The men resorted to using towels or bedsheets as religious attire substitutes during prayer. Correctional staff also provided Qur’ans only in English too, according to court documents.
 
-ICE did not return requests for comment. 
+"ICE does not comment on pending litigation. That said, absence of comment should in no way be construed as agreement with any of the allegations," said an ICE spokesman in an emailed statement. "ICE conducts activities in compliance with federal law and agency policy." ICE also said that Glades passed an annual detention inspection in March.
 
 Upon entering Glades County Detention Center, the Muslim men reported not being asked about their religious needs. “Preferential treatment” was given to Christian attendees, according to the complaint. 
 
