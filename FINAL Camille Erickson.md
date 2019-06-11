@@ -42,7 +42,7 @@ And it’s not only asylum seekers who have been stuck in detention. Undocumente
 
 The average processing time for an immigration case hit an all-time high last year of [578 days](https://trac.syr.edu/phptools/immigration/court_backlog/). As of April 2019, there is a backlog of [892,517 cases](https://trac.syr.edu/phptools/immigration/court_backlog/) waiting to be processed in immigration court.
 
-[Figure 2 — Court backlog across the country](www.datawrapper.de/_/bTYYl/)
+[Figure 2 — Court backlog across the country](//www.datawrapper.de/_/bTYYl/)
 
 But in addition to the sharp decline in immigrants’ chance of obtaining bond, the amount a judge sets bond at fluctuates dramatically depending on the nationality of the immigrant, according to TRAC data. 
 
