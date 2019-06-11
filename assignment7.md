@@ -1,4 +1,4 @@
-## Assignment 7: Charter school industry lobbying 
+## * in process* Assignment 7: Charter school industry lobbying 
 
 I covered the nation's first charter school strikes when I was in Chicago. In an era of increased organizing by teachers and unions against charter school networks, I wanted to dig into how much influence pro-charter school interest groups have in Washington based on lobbying reports. 
 
