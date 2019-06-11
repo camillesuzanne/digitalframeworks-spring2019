@@ -18,27 +18,27 @@ As public pressure mounted, a federal judge ordered the two men released on bond
 
 “There are no detainees on hunger strike in El Paso at this time,” a spokeswoman for ICE said in an emailed statement. She declined to answer more detailed questions. 
 
-*Of the over 42,000 asylum cases decided in the 2018 fiscal year, over half involved people from over 100 countries outside Central America, according to Syracuse University TRAC data. Of all asylum cases completed in the 2018 fiscal year, 46 percent of the asylum-seeking immigrants were detained. As the number of immigrants from around the world apprehended and placed in custody swells, reports of religious discrimination in detention have also persisted, according to multiple attorneys and immigrant rights organizations.*
+*Of the over 42,000 asylum cases decided in the 2018 fiscal year, over half involved people from over 100 countries outside Central America, according to [Syracuse University TRAC data](https://trac.syr.edu/phptools/immigration/asylum/). Of all asylum cases completed in the 2018 fiscal year, 46 percent of the asylum-seeking immigrants were detained. As the number of immigrants from around the world apprehended and placed in custody [swells](https://www.cbp.gov/newsroom/stats/sw-border-migration), reports of religious discrimination in detention have also persisted, according to multiple attorneys and immigrant rights organizations.*
 
 “We see people from all over the world in detention,” said Liz Martinez, executive director of Freedom for Immigrants, an organization advocating for abolishing detention. “I think it's important to state, because people often think that [immigrants] are only coming from Central America.” 
 
-On June 3, Immigration and Customs Enforcement reported arresting a group of 37 undocumented immigrants from Central Africa at the border in Eagle Pass, Texas.
+On June 3, Immigration and Customs Enforcement [reported](https://www.cbp.gov/newsroom/local-media-release/border-patrol-agents-apprehend-group-37-africa) arresting a group of 37 undocumented immigrants from Central Africa at the border in Eagle Pass, Texas.
 
 “We are continuing to see a rise in apprehensions of immigrants from countries not normally encountered in our area. Groups of family units from around the world are traveling thousands of miles just [sic] enter the United States illegally to exploit our immigration laws,” said Del Rio Sector Chief Patrol Agent Raul L. Ortiz in a statement. 
 
-Immigrants in detention come from about 175 countries outside of Central America, according to latest data through June 2018 on TRAC.
+Immigrants in detention come from about 175 countries outside of Central America, according to latest data [through June 2018 on TRAC](https://trac.syr.edu/phptools/immigration/detention/).
 
 ### A new norm: Indefinite detention 
 
-Before the Trump administration, many asylum seekers who passed credible fear interviews were released on parole. But asylum seekers' ability to receive parole the past two years has sharply declined, leaving many to await their fate in detention, according to a lawsuit filed by the American Civil Liberties Union against the Department of Homeland Security. 
+Before the Trump administration, many asylum seekers who passed credible fear interviews were released on parole. But asylum seekers' ability to receive parole the past two years has sharply declined, leaving many to await their fate in detention, [according to a lawsuit](https://www.lexisnexis.com/legalnewsroom/immigration/b/insidenews/posts/aclu-of-la-and-splc-sue-trump-administration-for-illegally-denying-parole-to-asylum-seekers) filed by the American Civil Liberties Union against the Department of Homeland Security. 
 
 “Under the prior administration, by and large those folks wouldn't have been locked up pending their case, because there's a recognition that it's really not in the public's interest to lock up asylum seekers who don't pose a threat to anybody and who are exercising their right to apply for status here in our country,” said Michael Tan, an attorney with the ACLU. 
 
-About 58 percent of immigrants in detention have no criminal record, according to TRAC data. But judges denied bond in 38,271 cases last fiscal year — a record high.
+About [58 percent](https://trac.syr.edu/immigration/reports/530/) of immigrants in detention have no criminal record, according to TRAC data. But judges denied bond in 38,271 cases last fiscal year — a record high.
 
 And it’s not only asylum seekers who have been stuck in detention. Undocumented immigrants apprehended and held in detention centers by ICE remain in jail for as long as it takes for their case to process in immigration court, unless a judge grants them bond. 
 
-The average processing time for an immigration case hit an all-time high last year of 578 days. As of April 2019, there is a backlog of 892,517 cases waiting to be processed in immigration court.
+The average processing time for an immigration case hit an all-time high last year of [578 days](https://trac.syr.edu/phptools/immigration/court_backlog/). As of April 2019, there is a backlog of [892,517 cases](https://trac.syr.edu/phptools/immigration/court_backlog/) waiting to be processed in immigration court.
 
 Figure 2 — Court backlog across the country
 
@@ -52,11 +52,11 @@ For example, an immigrant from India has an 87 percent chance of obtaining bond 
 
 What’s more, because immigrants arrive at detention speaking dozens of different languages, communication and cultural barriers are not uncommon and can lead to inadequate due process or abuse, Lynch said. 
 
-Figure 4 — Map of detained immigrants from around the world
+[Figure 4 — Map of detained immigrants from around the world](https://public.tableau.com/profile/camille.erickson#!/vizhome/Immigrantsindetentionfromwhatcountries/Dashboard1)
 
 “Being held in these conditions it's obviously traumatic and jeopardizes one's ability to effectively communicate with counsel,” Lynch said. 
 
-Immigration courts often provide in-person translation for only Spanish speakers. The vast majority of other languages are interpreted via telephonic interpreters, or interpreters on the phone, according to a report by the Center for American Progress, a liberal advocacy and research organization.
+Immigration courts often provide in-person translation for only Spanish speakers. The vast majority of other languages are interpreted via telephonic interpreters, or interpreters on the phone, according to a report by the [Center for American Progress](https://www.americanprogress.org/issues/immigration/reports/2019/02/20/466144/language-access-life-death-consequences-migrants/), a liberal advocacy and research organization.
 
 “Historically interpreters were present in the immigration courtroom proceeding, which is really important given communication barriers or not being able to read body language and being able to accurately interpret what the respondent is testifying to,” Lynch added.
 
@@ -97,7 +97,8 @@ Correctional staff denied his medications and multiple requests for a proper pla
 “Mohammed's case has some particular factors that are problematic and highlight new patterns in terms of surveillance and the connection between ICE and the FBI,” said Wences, an immigrant herself. 
 
 To Saei, denying immigrants in detention the ability to practice their religion has severe consequences. 
-“It's a very serious harm [to] dignity,” Saei said. “I think that it's just one of them bad things that can happen to people in immigration detention. That ICE and these detention facilities seem to have accepted as normal but it's not normal.”
+
+“It's a very serious harm [to one's] dignity,” Saei said. “I think that it's just one of the bad things that can happen to people in immigration detention that ICE and these detention facilities seem to have accepted as normal but it's not normal.”
 
 
 ### Sources interviewed:
