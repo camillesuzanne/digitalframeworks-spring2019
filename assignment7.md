@@ -17,3 +17,10 @@ American Federation of Teachers
 
 ### HED: Charter school lobbying groups keep up lobbying even as teachers strike across the country
 ### Nutgraf: 
+
+The National Alliance for Public Charter Schools lobbying has been on the decline since it reached a record high of $440,000 in 2009. Last year, the group spent $190,000 lobbying on issues such as "charter school funding," according to lobbying reports. Success Academy Charter Schools spent $160,000 on lobbying and Breakthrough Charter Schools spent $120,000 in 2018. Charter School Management spent $100,000 last year. 
+
+In 2010, Charter School Management 
+
+
+
